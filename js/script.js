@@ -18,70 +18,70 @@
     			$(this).animate({
     				height: '70px',
     				width: '70px',
-    			});
+    			},100);
     			
     		},
     		function() {
     			$(this).animate({
     				height: '64px',
     				width: '64px',
-    			});
+    			},100);
     		});
 
     		$(".icon2").hover(function() {
     			$(this).animate({
     				height: '70px',
     				width: '70px',
-    			});
+    			},100);
     			
     		},
     		function() {
     			$(this).animate({
     				height: '64px',
     				width: '64px',
-    			});
+    			},100);
     		});
 
     		$(".icon3").hover(function() {
     			$(this).animate({
     				height: '70px',
     				width: '70px',
-    			});
+    			},100);
     			
     		},
     		function() {
     			$(this).animate({
     				height: '64px',
     				width: '64px',
-    			});
+    			},100);
     		});
 
     		$(".icon4").hover(function() {
     			$(this).animate({
     				height: '70px',
     				width: '70px',
-    			});
+    			},100);
     			
     		},
     		function() {
     			$(this).animate({
     				height: '64px',
     				width: '64px',
-    			});
+    			},100);
     		});
 
     		$(".icon5").hover(function() {
     			$(this).animate({
     				height: '70px',
     				width: '70px',
-    			});
+    			},100);
     			
     		},
     		function() {
     			$(this).animate({
     				height: '64px',
     				width: '64px',
-    			});
+    			},100);
     		});
 
 
