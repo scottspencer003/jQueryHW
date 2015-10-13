@@ -1,0 +1,32 @@
+A jQuery library is a collection of Javascript functions that can be used to add interactive events to a webpage easier than writing out Javascript code.
+
+jQuery libraries can be added to the <head> of and html file.
+
+use <script src="jquery library url"></script>
+
+structure of jQuery functions:
+
+$("<element name, class, id or XPath")
+
+
+Use - $(document).ready() at the beginning of the file to make sure all elements of the site load before jQuery otherwise the site may break.
+
+jQuery can:
+
+$("#").fadeOut(time);
+$("#").fadeIn(time);
+
+$("#").animate({
+	opacity: 0.25,
+	width: 100px,
+	height: 100px,
+
+} , time);
+
+$("#").slideUp(time);
+$("#").slideDown(time);
+
+$("#").click(); perform an event when clicked
+
+$("#").show();
+$("#").hide();
